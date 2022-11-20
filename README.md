@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+  <img src="https://drive.google.com/uc?export=view&id=1r1kg1y16wb-iwTEYTulBHlup5Amdvz45"/>
 </p>
 <h1 align="center">
   devgenix.software - v1
