@@ -8,7 +8,7 @@
   The first iteration of <a href="https://devgenix.software/" target="_blank">devgenix.software</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="https://user-images.githubusercontent.com/32211479/111238274-24f8b100-85cd-11eb-9d5a-00f07cbc05e9.png">
+<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="https://drive.google.com/drive/u/2/folders/1zy_pwCGdcB2Ks1wrC-Ow4gTGuC3w0LrS">
 
 ## 🛠 set-up
 
