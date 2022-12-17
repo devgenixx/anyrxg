@@ -39,6 +39,7 @@ class About extends React.Component {
       <p>
         Outside of all of this, I am on the <b>basketball team</b> of NIT Srinagar. My indoor hobbies include  
         <b> sketching</b>, <b>reading</b> and <b>coding</b>. 
+        Resume  
 
       </p>
       
