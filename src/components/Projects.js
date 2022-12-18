@@ -81,7 +81,7 @@ class Projects extends React.Component {
           "Basic Garuru app launch website",
         techStack: "Javascript, HTML / CSS (Bootstrap)",
         link: "https://github.com/devgenixx/garuru-app-site",
-        open: ""
+        open: "https://devgenixx.github.io/garuru-app-site/"
       },
       /*
       "Weather App": {
